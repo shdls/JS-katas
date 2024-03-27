@@ -14,4 +14,17 @@ const currentday = weekday[d.getDay()];
 console.log("today is " +  currentday); 
 
 
+
+
+const currentTime = new Date().toLocaleTimeString();
+console.log(`Current Time: ${currentTime}`);
+
+
+
+
+
+
+
+
+
  
