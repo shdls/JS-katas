@@ -24,8 +24,9 @@ console.log(`Current Time: ${currentTime}`);
 
 //2. Write a JavaScript program to print the current window contents.  
 
-console.log("hello");
 
-
+function printCurrentPage() {
+  window.print();
+}
 
  
